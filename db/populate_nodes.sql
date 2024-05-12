@@ -1,0 +1,21 @@
+INSERT INTO Nodes (name, type, description) VALUES
+('Frederick I-70/I-270 Connector', 'Intersection', 'Major connector in Frederick'),
+('Urbana via I-270', 'Town', 'Town via I-270'),
+('Urbana via State Route 355', 'Town', 'Town via State Route 355'),
+('New Market via I-70', 'Town', 'Town via I-70'),
+('Hyattstown via I-270', 'Town', 'Town via I-270'),
+('Hyattstown via State Route 355', 'Town', 'Town via State Route 355'),
+('Clarksburg via I-270', 'Town', 'Town via I-270'),
+('Clarksburg via State Route 355', 'Town', 'Town via State Route 355'),
+('Germantown (Exit 16)', 'Town', 'Town at Exit 16 via I-270'),
+('Germantown Ridge Road Crossing', 'Intersection', 'Intersection on Ridge Road'),
+('Gaithersburg (Exit 12)', 'Town', 'Town at Exit 12 via I-270'),
+('Gaithersburg (Montgomery Village Crossing)', 'Intersection', 'Crossing in Gaithersburg'),
+('Gaithersburg (Shady Grove Road Crossing)', 'Intersection', 'Crossing in Gaithersburg'),
+('Rockville (Exit 6)', 'Town', 'Town at Exit 6 via I-270'),
+('Rockville (Exit 4)', 'Town', 'Town at Exit 4 via I-270'),
+('Rockville Town Center', 'Town', 'Town center in Rockville'),
+('Montrose Crossing', 'Intersection', 'Crossing near Rockville'),
+('North Bethesda', 'Town', 'Town in North Bethesda'),
+('Damascus', 'Town', 'Town near Frederick')
+;

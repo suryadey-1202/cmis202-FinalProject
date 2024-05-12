@@ -1,0 +1,22 @@
+INSERT INTO Edges (start_node, end_node, distance, speed_limit, lanes, road_type, description) VALUES
+(1, 2, 6.35, 65, 3, 'Highway', 'I-270 to Urbana'),
+(1, 3, 7.57, 45, 3, 'Highway', 'State Route 355 to Urbana'),
+(1, 4, 9.25, 70, 4, 'Highway', 'I-70 to New Market'),
+(2, 5, 3.8, 65, 3, 'Highway', 'I-270 to Hyattstown'),
+(3, 6, 3.8, 50, 1, 'Highway', 'State Route 355 to Hyattstown'),
+(5, 7, 3.8, 65, 3, 'Highway', 'I-270 to Clarksburg'),
+(6, 8, 3.9, 50, 1, 'Highway', 'State Route 355 to Clarksburg'),
+(7, 9, 2.67, 55, 4, 'Highway', 'I-270 to Germantown (Exit 16)'),
+(8, 10, 2.9, 45, 1, 'Highway', 'State Route 355 to Germantown Ridge Road Crossing'),
+(9, 11, 2.5, 55, 4, 'Highway', 'I-270 to Gaithersburg (Exit 12)'),
+(10, 12, 0.8, 35, 3, 'Highway', 'State Route 355 to Gaithersburg (Montgomery Village Crossing)'),
+(11, 13, 0.8, 55, 4, 'Highway', 'I-270 to Gaithersburg (Exit 11)'),
+(12, 14, 3.9, 55, 4, 'Highway', 'I-270 to Gaithersburg (Exit 8)'),
+(13, 15, 0.8, 35, 3, 'Highway', 'State Route 355 to Gaithersburg (Shady Grove Road Crossing)'),
+(14, 16, 1.9, 55, 4, 'Highway', 'I-270 to Rockville (Exit 6)'),
+(15, 17, 2.4, 55, 4, 'Highway', 'I-270 to Rockville (Exit 4)'),
+(16, 18, 3.79, 45, 3, 'Highway', 'State Route 355 to Rockville Town Center'),
+(17, 19, 2.4, 55, 4, 'Highway', 'I-270 to Montrose Crossing'),
+(18, 19, 1, 45, 3, 'Highway', 'State Route 355 to North Bethesda'),
+(4, 19, 5.6, 70, 4, 'Highway', 'I-70 to Damascus')
+;
